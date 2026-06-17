@@ -16,22 +16,35 @@ Key Features
 
 Technologies and Tools
 Programming Language: Python
+
 Deep Learning Framework: PyTorch
+
 Object Detection Model: YOLOv8
+
 Web Framework: Streamlit
+
 Computer Vision Library: OpenCV
+
 Data Processing: NumPy, Pandas
+
 Visualization: Matplotlib
+
 Dataset: PolypDB Dataset (Kaggle)
+
 Version Control: Git and GitHub
 
 Project Workflow
 
 Data collection and preprocessing of colonoscopy images.
+
 Dataset annotation and preparation for training.
+
 Training and fine-tuning the YOLOv8 model using transfer learning.
+
 Model evaluation and performance analysis.
+
 Integration of the trained model into a Streamlit-based web application.
+
 Image upload, inference, and visualization of detection and classification results.
                        
                        

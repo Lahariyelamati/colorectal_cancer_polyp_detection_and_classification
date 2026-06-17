@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# PyTorch and Model Files
+*.pth
+*.pt
+
+# Training Outputs
+runs/
+outputs/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# IDE Files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+
+# Temporary Files
+*.tmp
+*.temp

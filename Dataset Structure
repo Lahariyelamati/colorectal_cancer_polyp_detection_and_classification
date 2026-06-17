@@ -1,0 +1,36 @@
+Dataset Structure
+
+The dataset is organized into modality-wise and center-wise folders, each containing images and their corresponding ground truth annotations:
+
+PolypDB Modality Based Structure
+
+├── BLI/
+│ ├── images/
+│ └── annotations/
+├── FICE/
+│ ├── images/
+│ └── annotations/
+├── LCI/
+│ ├── images/
+│ └── annotations/
+├── NBI/
+│ ├── images/
+│ └── annotations/
+└── WLI/
+├── images/
+└── annotations/
+
+PolypDB Center-wise Structure
+
+├── Simula/
+│ ├── images/
+│ ├── annotations/
+│ └── bounding_boxes/
+├── Karolinska/
+│ ├── images/
+│ ├── annotations/
+│ └── bounding_boxes/
+└── Vietnam/
+├── images/
+├── annotations/
+└── bounding_boxes/
